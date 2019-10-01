@@ -12,7 +12,7 @@ con.load_concordance_table('in_file_name.txt')
 con.write_concordance('out_file_name.txt')
 
 ```
-python3 huffman.py
+python3 concordance.py
 ```
 
 If you don't have version 3 of python, you can download it here: https://www.python.org/downloads/
