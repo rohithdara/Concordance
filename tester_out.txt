@@ -1,0 +1,11 @@
+alphabet: 1 2 3 4
+antis: 11
+evident: 6
+evidents: 6 7
+haha: 5 10
+lab: 8
+lol: 9
+period: 11
+self: 6
+selfs: 7
+thats: 10
